@@ -1,8 +1,8 @@
 
 # Many thanks to these guys:
-### [Source repository.](https://github.com/emlin2019/YUVCrasher)
-### [The basis was taken.](https://github.com/D3XX3R/YUVCrasher)
-№
+# [Source repository.](https://github.com/emlin2019/YUVCrasher)
+# [The basis was taken.](https://github.com/D3XX3R/YUVCrasher)
+
 # [Download Builder✅](https://github.com/Sigma-cc/Dead-video/releases/)
 
 # 💣Result preview:
