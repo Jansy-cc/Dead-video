@@ -1,3 +1,5 @@
+* Crash doesn't work in mobile phones.
+
 
 # Many thanks to these guys:
 # [Source repository.](https://github.com/emlin2019/YUVCrasher)
