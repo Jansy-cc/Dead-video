@@ -6,7 +6,7 @@
 # [Download Builder✅](https://github.com/Sigma-cc/Dead-video/releases/)
 ***
 # 💣Result preview:
-![](https://media.discordapp.net/attachments/797823091899236433/800465143041490944/Preview.gif)
+![](https://i.imgur.com/AjwRhO5.gif)
 ["Broken video" from the example.](https://cdn.discordapp.com/attachments/800459022175567905/800462873049956352/build.mp4)
 # 💣Builder preview:
 ![](https://media.discordapp.net/attachments/797823091899236433/800466084577673266/unknown.png)
